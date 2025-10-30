@@ -1,6 +1,6 @@
 import os
 import json
-import chromadb
+#import chromadb
 from google import genai
 from google.genai import types
 from llama_index.core import VectorStoreIndex, SimpleDirectoryReader, Settings
